@@ -1,0 +1,19 @@
+{
+  "Title": "Mother Basement",
+  "Type": "map",
+  "Org": "duccsoft",
+  "Ident": "mother_basement",
+  "Tags": "",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "Metadata": {
+    "ProjectTemplate": null,
+    "Summary": "",
+    "Description": "A small map set in a cozy basement.",
+    "Public": true
+  }
+}
